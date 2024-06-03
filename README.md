@@ -8,13 +8,7 @@ The schema consists of 6 tables:
 5.	salaries: Stores employee numbers and salaries.
 6.	titles: Contains job titles and title ID.
 
-Six tables are created with the following schema:
-•	employees
-•	departments
-•	dept_emp
-•	dept_manager
-•	salaries
-•	titles
+Six tables are created with the above schemas
 
 Questions from the module I set out to answer
 1.	List the employee number, last name, first name, sex, and salary of each employee.
